@@ -1,0 +1,8 @@
+<!DOCTYPE aspectj PUBLIC "-//AspectJ//DTD//EN" "http://www.eclipse.org/aspectj/dtd/aspectj.dtd">
+<aspectj>
+   <aspects>
+      <aspect name="com.xenovation.scraping.webscraping.SeleniumPerformanceTracingAspect" />
+      <aspect name="com.xenovation.scraping.webscraping.humaninteract.SeleniumScrollingSimulatorAspect" />
+      <aspect name="com.xenovation.scraping.webscraping.humaninteract.SeleniumDemoModeAspect" />
+   </aspects>
+</aspectj>
